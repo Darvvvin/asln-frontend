@@ -37,6 +37,10 @@ body {
     color: white;
 }
 
+label {
+    color: #1f1f1f;
+}
+
 html {
   scroll-behavior: smooth;
 }
